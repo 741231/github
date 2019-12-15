@@ -3,3 +3,7 @@ GitHub¿ÉÒÔÍÐ¹Ü¸÷ÖÖgit¿â£¬²¢Ìá¹©Ò»¸öweb½çÃæ£¬µ«ÓëÆäËüÏñ SourceForge»òGoogle CodeÕ
 ×÷Îª¿ªÔ´´úÂë¿âÒÔ¼°°æ±¾¿ØÖÆÏµÍ³£¬GithubÓµÓÐ³¬¹ý900Íò¿ª·¢ÕßÓÃ»§¡£Ëæ×ÅÔ½À´Ô½¶àµÄÓ¦ÓÃ³ÌÐò×ªÒÆµ½ÁËÔÆÉÏ£¬GithubÒÑ¾­³ÉÎªÁË¹ÜÀíÈí¼þ¿ª·¢ÒÔ¼°·¢ÏÖÒÑÓÐ´úÂëµÄÊ×Ñ¡·½·¨¡£
 
 ÈçÇ°ËùÊö£¬×÷ÎªÒ»¸ö·Ö²¼Ê½µÄ°æ±¾¿ØÖÆÏµÍ³£¬ÔÚGitÖÐ²¢²»´æÔÚÖ÷¿âÕâÑùµÄ¸ÅÄî£¬Ã¿Ò»·Ý¸´ÖÆ³öµÄ¿â¶¼¿ÉÒÔ¶ÀÁ¢Ê¹ÓÃ£¬ÈÎºÎÁ½¸ö¿âÖ®¼äµÄ²»Ò»ÖÂÖ®´¦¶¼¿ÉÒÔ½øÐÐºÏ²¢¡£
+
+GitHub¿ÉÒÔÍÐ¹Ü¸÷ÖÖgit¿â£¬²¢Ìá¹©Ò»¸öweb½çÃæ£¬µ«ÓëÆäËüÏñ SourceForge»òGoogle CodeÕâÑùµÄ·þÎñ²»Í¬£¬GitHubµÄ¶ÀÌØÂôµãÔÚÓÚ´ÓÁíÍâÒ»¸öÏîÄ¿½øÐÐ·ÖÖ§µÄ¼òÒ×ÐÔ¡£ÎªÒ»¸öÏîÄ¿¹±Ï×´úÂë·Ç³£¼òµ¥:Ê×ÏÈµã»÷ÏîÄ¿Õ¾µãµÄ"fork"µÄ°´Å¥£¬È»ºó½«´úÂë¼ì³ö²¢½«ÐÞ¸Ä¼ÓÈëµ½¸Õ²Å·Ö³öµÄ´úÂë¿âÖÐ£¬×îºóÍ¨¹ýÄÚ½¨µÄ"pull request"»úÖÆÏòÏîÄ¿¸ºÔðÈËÉêÇë´úÂëºÏ²¢¡£ÒÑ¾­ÓÐÈË½«GitHub³ÆÎª´úÂëÍæ¼ÒµÄMySpace¡£
+
+GitHub¿ÉÒÔÍÐ¹Ü¸÷ÖÖgit¿â£¬²¢Ìá¹©Ò»¸öweb½çÃæ£¬µ«ÓëÆäËüÏñ SourceForge»òGoogle CodeÕâÑùµÄ·þÎñ²»Í¬£¬GitHubµÄ¶ÀÌØÂôµãÔÚÓÚ´ÓÁíÍâÒ»¸öÏîÄ¿½øÐÐ·ÖÖ§µÄ¼òÒ×ÐÔ¡£ÎªÒ»¸öÏîÄ¿¹±Ï×´úÂë·Ç³£¼òµ¥:Ê×ÏÈµã»÷ÏîÄ¿Õ¾µãµÄ"fork"µÄ°´Å¥£¬È»ºó½«´úÂë¼ì³ö²¢½«ÐÞ¸Ä¼ÓÈëµ½¸Õ²Å·Ö³öµÄ´úÂë¿âÖÐ£¬×îºóÍ¨¹ýÄÚ½¨µÄ"pull request"»úÖÆÏòÏîÄ¿¸ºÔðÈËÉêÇë´úÂëºÏ²¢¡£ÒÑ¾­ÓÐÈË½«GitHub³ÆÎª´úÂëÍæ¼ÒµÄMySpace¡£
