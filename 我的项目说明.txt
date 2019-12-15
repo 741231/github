@@ -9,3 +9,7 @@ GitHub¿ÉÒÔÍÐ¹Ü¸÷ÖÖgit¿â£¬²¢Ìá¹©Ò»¸öweb½çÃæ£¬µ«ÓëÆäËüÏñ SourceForge»òGoogle CodeÕ
 GitHub¿ÉÒÔÍÐ¹Ü¸÷ÖÖgit¿â£¬²¢Ìá¹©Ò»¸öweb½çÃæ£¬µ«ÓëÆäËüÏñ SourceForge»òGoogle CodeÕâÑùµÄ·þÎñ²»Í¬£¬GitHubµÄ¶ÀÌØÂôµãÔÚÓÚ´ÓÁíÍâÒ»¸öÏîÄ¿½øÐÐ·ÖÖ§µÄ¼òÒ×ÐÔ¡£ÎªÒ»¸öÏîÄ¿¹±Ï×´úÂë·Ç³£¼òµ¥:Ê×ÏÈµã»÷ÏîÄ¿Õ¾µãµÄ"fork"µÄ°´Å¥£¬È»ºó½«´úÂë¼ì³ö²¢½«ÐÞ¸Ä¼ÓÈëµ½¸Õ²Å·Ö³öµÄ´úÂë¿âÖÐ£¬×îºóÍ¨¹ýÄÚ½¨µÄ"pull request"»úÖÆÏòÏîÄ¿¸ºÔðÈËÉêÇë´úÂëºÏ²¢¡£ÒÑ¾­ÓÐÈË½«GitHub³ÆÎª´úÂëÍæ¼ÒµÄMySpace¡£
 
 BOXENµÄ»ù´¡ÉÏÊÕ¼¯ÁË´óÁ¿µÄ¼¸Ê®¸öÄ¾Å¼Ä£¿é£¬Ê¹ÉèÖÃµÄ¸÷ÖÖÈí¼þ£¬Èç¿¨É£µÂÀ­£¬MongoDBÖÐ£¬JavaÈí¼þÖÐ£¬PythonºÍRuby¿ª·¢ÖÐ£¬½Úµã£¬JS£¬nginxµÄ£¬Skype¹«Ë¾£¬ÉõÖÁMINECRAFT¡£ËäÈ»»úÆ÷ÉÏÅä±¸ÁËÒ»¸öÔ¤ÅäÖÃ£¬Ã¿¸öÓÃ»§¶¼¿ÉÒÔµ÷ÕûËüµÄÅäÖÃÓ¦ÓÐµÄ×÷ÓÃ
+
+2013Äê1ÔÂ15ÈÕÍí¼ä£¬È«Çò×î´óµÄÉç½»±à³Ì¼°´úÂëÍÐ¹ÜÍøÕ¾GitHubÍ»È»ÒÉËÆÔâÓöDDOS¹¥»÷£¬·ÃÎÊ´ó·ù·Å»º£¬¸ÃÍøÕ¾¹ÜÀíÔ±¾­¹ýÈÕÖ¾²éÑ¯£¬·¢ÏÖÊÇÀ´×Ô12306µÄÇÀÆ±²å¼þÓÃ»§ºéË®°ãµÄ·ÃÎÊµ¼ÖÂGitHub³öÏÖÎÊÌâ¡£
+
+2013Äê1ÔÂ20ÈÕ×óÓÒ£¬GitHubÔÚÖÐ¹ú´óÂ½±»¹Ù·½µÄ·À»ð³¤³Ç·âËø(·âËøÊÖ¶ÎÎªÓòÃûÎÛÈ¾ºÍ¹Ø¼ü´Ê¹ýÂË)£¬Àî¿ª¸´µÈÒ»Ð©Î¢²©´óºÅºôÓõ½â½ûGitHub£¬Î¢²©×ª·¢½ü10ÍòÌõ¡£2013Äê1ÔÂ23ÈÕgithubÍøÕ¾»Ö¸´Õý³£·ÃÎÊ¡£
